@@ -1,0 +1,30 @@
+{
+  "name": "fitshareapp",
+  "version": "1.0.0",
+  "description": "cis197 final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awanga123/CIS197_FINAL.git"
+  },
+  "author": "Alex Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awanga123/CIS197_FINAL/issues"
+  },
+  "homepage": "https://github.com/awanga123/CIS197_FINAL#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0",
+    "babel-preset-env": "^1.2.2"
+  }
+}
